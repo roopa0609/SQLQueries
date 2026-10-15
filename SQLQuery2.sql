@@ -1,0 +1,3 @@
+CREATE DATABASE library_db;
+
+DROP TABLE IF EXISTS branch;
